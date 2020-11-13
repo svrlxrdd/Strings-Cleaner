@@ -5,4 +5,5 @@ You will need CCcleaner installed & put it's location when u edit the file.
 Simple as that.
 User : root
 Pass : root
-Enjoy kids
+For help dm sv#1337 on discord..!
+Enjoy
